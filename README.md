@@ -1,7 +1,11 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hello%20There%20%20!&section=header&reversal=false"/>
+</p>
+
 ## Hi there 👋
 
 <!--
-**ILOVEPYTHONSOMUCH/ILOVEPYTHONSOMUCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
