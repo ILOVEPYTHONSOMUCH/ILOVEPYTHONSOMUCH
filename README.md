@@ -4,7 +4,8 @@
 </p>
 
 ## I'm S0me0ne👋
-🌱 I’m currently learning on **Hacking, Programming, Cryptography, Network, Reverse Engineering**.
+💡 I’m currently learning on **Hacking 🐱‍💻, Programming 🖥️, Cryptography 🔐, Network 🖧, Reverse Engineering 👨‍💻**.
+
 <!--
 
 - 🔭 I’m currently working on ...
