@@ -3,11 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hello%20There%20%20!&section=header&reversal=false"/>
 </p>
 
-## Hi there 👋
-
+## I'm S0me0ne👋
+🌱 I’m currently learning on hacking, programming, cryptography,cracking.
 <!--
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
